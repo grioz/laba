@@ -1,2 +1,2 @@
 # Трубаев Игорь ИДБ-14-14
-https://github.com/grioz/laba/wiki
+*[Wiki](https://github.com/grioz/laba/wiki)
